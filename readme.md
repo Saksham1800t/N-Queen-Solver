@@ -1,0 +1,2 @@
+# description
+A dynamic web page that visualizes solutions to the N-Queens problem using HTML, CSS, and JavaScript, displaying interactive chessboards for each solved configuration. Users can input different values of N to explore various solutions and understand the problem's complexity.
