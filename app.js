@@ -130,7 +130,6 @@ class Queen {
 
         for (let i = 0; i < n; ++i) {
             await q.delay();
-            // console.log("outside:" + board);
             await q.clearColor(board);
             if (await q.isValid(board, r, i, n)) {
                 await q.delay();
